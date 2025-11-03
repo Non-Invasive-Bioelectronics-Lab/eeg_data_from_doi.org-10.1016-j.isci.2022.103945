@@ -12,4 +12,4 @@ Each one has repeat readings present, either 3 or 4.
 
 Each recording is stored twice. One is the raw recording from the camNtech device, the other (with extension _notch) has the camNtech built in 50 Hz notching filtering applied. 
 
-There is also a Python file main.py to plot all of these records and (approximately) align them in time. Note this is a new file generated now. 
+There is also a Python file main.py to plot all of these records and (approximately) align them in time. Note this is a new file generated now. The pyproject.toml file is for this. The original plotting code is in plot_agagcl_2xgraphene.py.
