@@ -1,6 +1,6 @@
 This repository contains the EEG recordings carried out using a phantom, as used in paper https://doi.org/10.1016/j.isci.2022.103945 Fully printed and multifunctional graphene-based wearable e-textiles for personalized healthcare applications Islam, Md Rashedul et al. iScience, Volume 25, Issue 3, 103945.
 
-These are stored in EDF format. See [[https://www.edfplus.info/]] for info on this and common tools to load the data.
+These are stored in EDF format. See https://www.edfplus.info/ for info on this and common tools to load the data.
 
 There are three different electrodes tested:
 
